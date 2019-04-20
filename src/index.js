@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
   projects.innerHTML = `
     <div>
       <div class="project-info">
-        <iframe width="420" height="315"
+        <iframe class="videos"
           src="https://www.youtube.com/embed/Eyp96U58SEo">
         </iframe>
         <div class="description">
@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
       </div>
       <div class="project-info">
-        <iframe width="420" height="315"
+        <iframe class="videos"
           src="https://www.youtube.com/embed/5ATneZTcZz0">
         </iframe>
         <div class="description">
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
       </div>
       <div class="project-info">
-        <iframe width="420" height="315"
+        <iframe class="videos"
           src="https://www.youtube.com/embed/0mxoqhIB3lA">
         </iframe>
         <div class="description">

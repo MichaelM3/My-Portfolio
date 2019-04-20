@@ -1,0 +1,10 @@
+.project-info {
+  display: flex;
+  align-items: center;
+}
+
+.description {
+  flex-wrap: wrap;
+  margin-left: 75px;
+  border-style: dotted;
+}
